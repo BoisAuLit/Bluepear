@@ -1,0 +1,45 @@
+Task to be done:
+	1. Raspberry Pi configuration (2 months)
+		1.1 Precondition (1 month)
+			1.1.1 Design a program to receive and analyse BLE signals received from beacons
+			1.1.2 Implement above
+			1.1.3 Test the program with Estimote™ beacons
+			1.1.4 Configure the Raspberry Pi to program communicate with our Bluepear™ application server
+		1.2 Mapping (1 month)
+			1.2.1 Install Raspberry pi in the supermarket
+			1.2.2 Measure the supermetket (or somewhere we want to test)
+			1.2.3 Make the mapping with the Raspberry installed
+		1.3 Test again the program after Raspberry Pi installed and after mapping is done
+
+	2. Design and implement the web application (3 months)
+		2.1 Web site for clients  (2 months)
+			2.1.1 Design website for clients
+			2.1.2 Implment above
+			2.1.3 Test
+
+		2.2 Web site for administrators (2 month)
+			2.2.1 Design website for administrators
+			2.2.2 Implement above
+			2.2.3 Test
+
+		2.3 Database (2 months)
+			2.3.1 Design the relational model of the database
+			2.3.2 Implement above
+			2.3.3 Test
+
+		2.4 Location program (2 months)
+			2.4.1 Design the program to analyse data received from Raspberry Pi in the supermarkets
+			2.4.2 Implement the program above
+			2.4.3 Test
+
+		2.1 & 2.2 & 2.3 & 2.4 --> simultaneously
+
+	3. Android application (2 months)
+		5.1 Design
+		5.2	Implement above
+		5.3 Test
+	4. Test all (1 months)
+	5. Add other functionalities if enogh time left
+
+	1 & 2 & 3 --> simultaneously
+
